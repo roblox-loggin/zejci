@@ -1,0 +1,4 @@
+var Roblox = Roblox || {};
+Roblox.LangDynamic = Roblox.LangDynamic || {};
+Roblox.LangDynamic["Amp.FAEUpsell"] = {"Modal.ExternalLink.Title":"Yaş kontrolü gerekli","Modal.ExternalLink.ButtonStart":"Yaş tahminini başlat","Modal.ExternalLink.Text":"Filtresiz sohbetin ve parti sesinin kilidini açmak için yaşını kontrol et.","Modal.ExternalLink.ButtonCancel":"İptal et","Modal.Failed.Title":"Yaş kontrolü hatası","Modal.Failed.Text":"Bir şeyler ters gitti. Lütfen daha sonra tekrar dene.","Modal.Failed.ButtonClose":"Kapat","Modal.Failed.ButtonRetry":"Tekrar dene","Modal.Loading.Text":"Bu işlem birkaç dakika sürebilir. İptal edersen yaşın kontrol edilemeyebilir.","Modal.Loading.ButtonCancel":"İptal et"};
+window.Roblox && window.Roblox.BundleDetector && window.Roblox.BundleDetector.bundleDetected("DynamicLocalizationResourceScript_Amp.FAEUpsell");
